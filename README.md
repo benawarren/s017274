@@ -9,7 +9,8 @@
   - [FarmData2](DickinsonCollege/FarmData2): Web application in development at my college that I have contributed to.
   - [Redlining Exploration](s017274/RedliningExploration): My Python code for an analysis of redlining in Philadelphia.
   - [HOF Prediction](s017274/HOFPrediction): Python code I wrote to make predictions about players being inducted into the Hall of Fame.
-  - [Cortex](Acemcshlaghg/Cortex): IOS app I helped build a few years ago.
+  - [Collector](s017274/Collector) and [Topps Pack Opener](s017274/ToppsPackOpener), two semi-complete IOS apps I wrote for baseball card collectors.
+  - [Cortex](Acemcshlaghg/Cortex): IOS app I helped build a few years ago and [Midterm Calendar](s017274/midtermCalendar), my code that part of Cortex is based on.
 
 <!---
 s017274/s017274 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
