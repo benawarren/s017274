@@ -1,5 +1,5 @@
 # Welcome to my GitHub!
-- **Who I am**: college student in PA studying Data Analytics and History
+- **Who I am**: college student studying Data Analytics and History
 - **What I'm interested in**: 
    - Using data and tech to create social impact!
    - Machine Learning
