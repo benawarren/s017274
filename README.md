@@ -1,16 +1,18 @@
 # Welcome to my GitHub!
-- **Who I am**: college student studying Data Analytics and History
+- **Who I am**: Dickinson College student studying Data Analytics and History
 - **What I'm interested in**: 
-   - Using data and tech to create social impact!
+   - Using data and tech to create social impact
+   - Digital humanities
+   - Computational social science
    - Machine Learning
-   - Data Science
-   - Mobile App Development
+   - Data science
+   - Mobile app development
 - **Suggested repos**: 
-  - [FarmData2](https://github.com/DickinsonCollege/FarmData2): Web application in development at my college that I have contributed to.
-  - [Redlining Exploration](https://github.com/s017274/RedliningExploration): My Python code for an analysis of redlining in Philadelphia.
-  - [HOF Prediction](https://github.com/s017274/HOFPrediction): Python code I wrote to make predictions about players being inducted into the Hall of Fame.
-  - [Collector](https://github.com/s017274/Collector) and [Topps Pack Opener](https://github.com/s017274/ToppsPackOpener), two semi-complete IOS apps I wrote for baseball card collectors.
-  - [Cortex](https://github.com/Acemcshlaghg/Cortex): IOS app I helped build a few years ago and [Midterm Calendar](https://github.com/s017274/midtermCalendar), my code that part of Cortex is based on.
+  - [FarmData2](https://github.com/DickinsonCollege/FarmData2): With a team of 2 other students, I helped develop the crop transplanting report webpage for FarmData2, an open-source software project that allows small organic farming operations to keep track of their plantings and harvests. 
+  - [Redlining Exploration](https://github.com/s017274/RedliningExploration): I wrote Python code to analyze the racialized elements of redlining in Philadelphia, using geopandas, pandas, and matplotlib.
+  - [HOF Prediction](https://github.com/s017274/HOFPrediction): For an AI and Machine Learning class, I used multivariate linear regression techniques (implemented using scikit-learn in Python) to predict MLB Hall of Fame inductions from career statistics. Spoiler: games played has the most direct correlation to Hall of Fame induction!
+  - [Collector](https://github.com/s017274/Collector) and [Topps Pack Opener](https://github.com/s017274/ToppsPackOpener): I implemented two (semi-complete) IOS apps for baseball collectors, using Swift's UIKit in XCode. 
+  - [Cortex](https://github.com/Acemcshlaghg/Cortex): For an IOS developement course, I worked with a team of students to build an IOS app to efficiently match student tutors with tutees. I developed much of the calendar functionality: [Midterm Calendar](https://github.com/s017274/midtermCalendar).
 
 <!---
 s017274/s017274 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
