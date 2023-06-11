@@ -1,12 +1,12 @@
 # Welcome to my GitHub!
 - **Who I am**: Dickinson College student studying Data Analytics and History
 - **What I'm interested in**: 
-   - Using data and tech to create social impact
-   - Digital humanities
+   - Public interest tech
+   - AI Ethics/Criticism
    - Computational social science
    - Machine Learning
    - Data science
-   - Mobile app development
+   - Digital humanities
 - **Suggested repos**: 
   - [FarmData2](https://github.com/DickinsonCollege/FarmData2): With a team of 2 other students, I helped develop the crop transplanting report webpage for FarmData2, an open-source software project that allows small organic farming operations to keep track of their plantings and harvests. 
   - [Shakespeare Analysis](https://github.com/s017274/ShakespeareAnalysis): Inspired by an assignment in a class on digital humanities, I've compiled code in Python and R that uses techniques like stylistic fingerprinting and unsupervised clustering to analyze questions of authorship and similarity in Shakespeare's works.
