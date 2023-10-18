@@ -4,8 +4,7 @@
    - Public interest tech
    - AI Ethics/Criticism
    - Computational social science
-   - Machine Learning
-   - Data science
+   - Data Science/Machine Learning
    - Digital humanities
 - **Suggested repos**: 
   - [FarmData2](https://github.com/DickinsonCollege/FarmData2): With a team of 2 other students, I helped develop the crop transplanting report webpage for FarmData2, an open-source software project that allows small organic farming operations to keep track of their plantings and harvests.
